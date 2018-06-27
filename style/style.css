@@ -1,0 +1,27 @@
+.search-bar {
+  margin: 20px;
+}
+
+.title {
+  font-weight: bold;
+}
+
+.ingredients {
+  color: #888888;
+}
+
+.search-bar input {
+  width: 200px;
+}
+
+.main-container {
+  width: 600px;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background-color: #eeeeee;
+}
