@@ -60,4 +60,10 @@ In recipe_list_item.js:
 
 ##### 5)  Navigation to Recipe HTML page upon click on recipe list item
 
+<br>
+
+####Application in action:
+
+![alt text](http://g.recordit.co/22uIRb1YSz.gif "Application in action")
+
 
