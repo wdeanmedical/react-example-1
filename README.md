@@ -18,12 +18,12 @@
 
 ### Features
 
-##### 1) Redux is used with ReduxPromise
+#### 1) Redux is used with ReduxPromise
 ReduxPromise is used for async axios call that is in the action handler.
 
 <br>
 
-##### 2) CORS is handled with a proxy in webpack.config.js
+#### 2) CORS is handled with a proxy in webpack.config.js
 In webpack.config.js the devServer is configured as follows
 ```
   devServer: {
@@ -40,7 +40,7 @@ In webpack.config.js the devServer is configured as follows
   ```
   <br>
   
-##### 3) Lodash debounce() wrapped around nextwork search call
+#### 3) Lodash debounce() wrapped around nextwork search call
 In serach_bar.js:
 ````
   onInputChange(term) {
@@ -51,18 +51,18 @@ In serach_bar.js:
   ````
   <br>
   
-##### 4) Placeholder image is presented when thumbnail not available
+#### 4) Placeholder image is presented when thumbnail not available
 In recipe_list_item.js:
 ````
           <img className="media-object" src={thumbnail || '../assets/images/no-image-available.jpg'} />
 ```` 
 <br>
 
-##### 5)  Navigation to Recipe HTML page upon click on recipe list item
+#### 5)  Navigation to Recipe HTML page upon click on recipe list item
 
 <br>
 
-####Application in action:
+#### Application in action:
 
 ![alt text](http://g.recordit.co/22uIRb1YSz.gif "Application in action")
 
